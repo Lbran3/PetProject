@@ -8,6 +8,7 @@
 //-store the pet's type and name
 //-at the end, print out the list of pets and their names.
 //
+//
 //Part 2: Create a Pet class and subclasses
 //Create a Pet class:
 //-create name for class
@@ -20,7 +21,7 @@
 //-cat: speaks "Purr!"
 //bird: speaks "Chirp!"
 //
-
+//
 //Part 3: Modify the program to use the Pet class
 //-ask user (ex. part 1) for number of pets and their details (type and name)
 //Create an empty list to store pet:
